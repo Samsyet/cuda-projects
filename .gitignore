@@ -4,6 +4,7 @@ a.out
 *.exe
 vecadd
 p1_vecadd
+*/vecadd
 
 # object files
 *.o

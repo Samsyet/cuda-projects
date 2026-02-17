@@ -1,0 +1,14 @@
+# project binaries
+*/vecadd
+*/grayscale
+
+# images (don’t upload test images)
+*.png
+*.jpg
+*.jpeg
+
+# build junk
+*.o
+*.out
+*.exe
+

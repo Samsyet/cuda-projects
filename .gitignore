@@ -1,5 +1,19 @@
-*.o
+# binaries
+a.out
 *.out
 *.exe
-p1_vecadd
 vecadd
+p1_vecadd
+
+# object files
+*.o
+
+# CUDA build junk
+*.ptx
+*.cubin
+*.fatbin
+
+# editor junk
+*.swp
+*.swo
+.DS_Store

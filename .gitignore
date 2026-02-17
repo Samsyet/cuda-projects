@@ -5,6 +5,8 @@ a.out
 vecadd
 p1_vecadd
 */vecadd
+*/matmul
+
 
 # object files
 *.o

@@ -1,0 +1,5 @@
+*.o
+*.out
+*.exe
+p1_vecadd
+vecadd
